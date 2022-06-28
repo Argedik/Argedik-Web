@@ -1,0 +1,31 @@
+{
+  "devDependencies": {
+    "eslint": "8.18.0",
+    "eslint-config-next": "12.1.6",
+    "firebase-tools": "^11.1.0"
+  },
+  "name": "argedik-web",
+  "description": "Özgeçmiş",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "firebase emulators:start",
+    "deploy": "firebase deploy --only hosting",
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Argedik/Argedik-Web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Argedik/Argedik-Web/issues"
+  },
+  "homepage": "https://github.com/Argedik/Argedik-Web#readme"
+}
