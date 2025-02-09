@@ -455,6 +455,14 @@ section {
   width: 60%;
 }
 
+.about-stats .progress-bars .progress-bar .progress-con .progress .Rust {
+  width: 100%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .sql {
+  width: 100%;
+}
+
 .about-stats .progress-bars .progress-bar .progress-con .progress .js {
   width: 100%;
 }
@@ -463,27 +471,15 @@ section {
   width: 100%;
 }
 
-.about-stats .progress-bars .progress-bar .progress-con .progress .flutter {
+.about-stats .progress-bars .progress-bar .progress-con .progress .devops {
   width: 100%;
 }
 
-.about-stats .progress-bars .progress-bar .progress-con .progress .html {
+.about-stats .progress-bars .progress-bar .progress-con .progress .linux {
   width: 100%;
 }
-
-.about-stats .progress-bars .progress-bar .progress-con .progress .css {
+.about-stats .progress-bars .progress-bar .progress-con .progress .next {
   width: 100%;
-}
-
-.about-stats .progress-bars .progress-bar .progress-con .progress .adobe {
-  width: 90%;
-}
-
-.about-stats .progress-bars .progress-bar .progress-con .progress .figma {
-  width: 80%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .kotlin {
-  width: 70%;
 }
 .stat-title {
   text-transform: uppercase;
