@@ -455,32 +455,10 @@ section {
   width: 60%;
 }
 
-.about-stats .progress-bars .progress-bar .progress-con .progress .Rust {
+.senior {
   width: 100%;
 }
 
-.about-stats .progress-bars .progress-bar .progress-con .progress .sql {
-  width: 100%;
-}
-
-.about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 100%;
-}
-
-.about-stats .progress-bars .progress-bar .progress-con .progress .react {
-  width: 100%;
-}
-
-.about-stats .progress-bars .progress-bar .progress-con .progress .devops {
-  width: 100%;
-}
-
-.about-stats .progress-bars .progress-bar .progress-con .progress .linux {
-  width: 100%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .next {
-  width: 100%;
-}
 .stat-title {
   text-transform: uppercase;
   font-size: 1.4rem;
