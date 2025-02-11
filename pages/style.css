@@ -455,8 +455,16 @@ section {
   width: 60%;
 }
 
+.about-stats .progress-bars .progress-bar .progress-con .progress .rust {
+  width: 90%
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .devops {
+  width: 90%
+}
+
 .about-stats .progress-bars .progress-bar .progress-con .progress .senior {
-  width: 100%;
+  width: 95%;
 }
 
 .stat-title {
