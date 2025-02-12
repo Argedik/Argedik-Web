@@ -460,10 +460,10 @@ section {
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .devops {
-  width: 90%
+  width: 70%
 }
 
-.about-stats .progress-bars .progress-bar .progress-con .progress .senior {
+.senior {
   width: 95%;
 }
 
